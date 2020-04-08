@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 1_LRCompare.mp4
+  caption: 
   focal_point: Smart
 
 url_code: ""
