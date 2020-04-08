@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Introduction"
+title = "Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning"
 subtitle = ""
 
 [design]
@@ -22,6 +22,13 @@ subtitle = ""
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 +++
+
+<center><h2><a >Kangning Liu</a>*&nbsp;&nbsp;&nbsp;
+  <a >Shuhang Gu</a>*&nbsp;&nbsp;&nbsp;
+  <a >Andres Romero</a>&nbsp;&nbsp;&nbsp;
+  <a >Radu Timofte</a></h2></center>
+
+
 
 
 ### Abstract
