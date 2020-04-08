@@ -22,22 +22,14 @@ email_form = 0
 
 ## 
 
-**Kangning Liu**
+**Kangning Liu<sup>1,2</sup>, Shuhang Gu<sup>2</sup>, Andres Romero<sup>2</sup>, Radu Timofte<sup>2</sup>**
 
-Center for Data Science,
-
-New York University, USA
-
-Email: kl3141@nyu.edu
+<sup>1</sup> Center for Data Science, New York University, USA
 
 
-**Shuhang Gu, Andres Romero, Radu Timofte**
+<sup>2</sup> Computer Vision Lab, ETH Zurich, Switzerland
 
-Computer Vision Lab,
-
-ETH Zurich, Switzerland
-
-Email: {shuhang.gu,andres.romero-vergara,radu.timofte}@vision.ee.ethz.ch
+Email: kl3141@nyu.edu , {shuhang.gu,andres.romero-vergara,radu.timofte}@vision.ee.ethz.ch
 
 
 
