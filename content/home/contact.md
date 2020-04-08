@@ -41,7 +41,7 @@ Email: {shuhang.gu,andres.romero-vergara,radu.timofte}@vision.ee.ethz.ch
 
 
 
-<i class="fab fa-github"></i>
+#<i class="fab fa-github"></i>
 
 
 

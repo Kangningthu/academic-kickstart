@@ -23,7 +23,7 @@ subtitle = ""
   flip_alt_rows = false
 +++
 
-<center><h2><a >Kangning Liu</a>*&nbsp;&nbsp;&nbsp;
+<center><h5><a >Kangning Liu</a>*&nbsp;&nbsp;&nbsp;
   <a >Shuhang Gu</a>*&nbsp;&nbsp;&nbsp;
   <a >Andres Romero</a>&nbsp;&nbsp;&nbsp;
   <a >Radu Timofte</a></h2></center>
