@@ -38,11 +38,11 @@ title = "Videos"
     tag = "Long style consistent translated video"
     
   [[content.filter_button]]
-    name = "Translation on Other Datasets"
+    name = "Translation on other datasets"
     tag = "Translation on other datasets"
     
   [[content.filter_button]]
-    name = "Ablation Study"
+    name = "Ablation study"
     tag = "Ablation study -- when no subdomain label"
     
 
