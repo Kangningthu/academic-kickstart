@@ -41,7 +41,7 @@ Email: {shuhang.gu,andres.romero-vergara,radu.timofte}@vision.ee.ethz.ch
 
 
 
-{icon = "github", icon_pack = "fas", name = "github", link = "https://discourse.gohugo.io"},
+<i class="fab fa-github"></i>
 
 
 
