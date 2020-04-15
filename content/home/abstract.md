@@ -24,9 +24,9 @@ subtitle = ""
 +++
 
 <center><h5><a >Kangning Liu</a>*&nbsp;&nbsp;&nbsp;
-  <a >Shuhang Gu</a>*&nbsp;&nbsp;&nbsp;
-  <a >Andres Romero</a>&nbsp;&nbsp;&nbsp;
-  <a >Radu Timofte</a></h5></center>
+  <a href='https://shuhanggu.github.io/'>Shuhang Gu</a>*&nbsp;&nbsp;&nbsp;
+  <a href='afromero.co/'>Andres Romero</a>&nbsp;&nbsp;&nbsp;
+  <a href='http://people.ee.ethz.ch/~timofter/'>Radu Timofte</a></h5></center>
 
 
 
