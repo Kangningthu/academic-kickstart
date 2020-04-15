@@ -36,8 +36,12 @@ Existing unsupervised video-to-video translation methods fail to produce transla
 
 
 ### Citing
-@article{example2, title = {An example journal article}, author={Bighetti, Nelson and Ford, Robert}, journal = {Journal of Source Themes}, year = 2015, volume = 1, number = 1 }
-
+@misc{2004.06502,
+Author = {Kangning Liu and Shuhang Gu and Andres Romero and Radu Timofte},
+Title = {Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning},
+Year = {2020},
+Eprint = {arXiv:2004.06502},
+}
 
 
 ### UVIT: Multi-subdomain & Multimodality
